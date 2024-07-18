@@ -15,6 +15,7 @@ body {
 }
 
 /* Pre-loader animation */
+/*
 .pre-loader {
   position: fixed;
   top: 0;
@@ -105,4 +106,4 @@ nav a.active {
     font-size:40px; 
     color:#66CC00; 
     font-weight:bold; 
-  }
+  }*/
